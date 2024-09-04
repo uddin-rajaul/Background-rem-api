@@ -22,7 +22,7 @@ pip install fastapi uvicorn streamlit requests rembg
 Access at http://127.0.0.1:8000.
 ```
 
-## Run FastAPI Server
+## Run Streamlit 
 
 ```bash
 streamlit run app.py
